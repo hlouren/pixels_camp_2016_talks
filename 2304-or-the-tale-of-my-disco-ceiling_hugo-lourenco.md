@@ -19,12 +19,13 @@ So I embarked in this long adventure of designing and implementing a rather larg
 In this talk I'll tell you about the project itself and the challenges I faced, both at the hardware and software level.
 
 
+
 Speaker Bio
 -----------
 
 I've been using computers since the time of the venerable ZX Spectrum. Soon after convincing my parents to buy me one, I spent most of my time tweaking with it rather than playing games on it.
 
-From there on computers never left me. I've graduated in Computer Engineering at Instituto Superior Técnico in 1997, and my professional life has been mostly in the Software Engineering positions. I've been at OutSystems for 11 years, where I've been proudly involved in the design and development of many of the great features of the OutSystems Platform.
+From there on computers have always been present in my life. I've graduated in Computer Engineering at Instituto Superior Técnico in 1997, and my professional life has been mostly in the Software Engineering positions. I've been at OutSystems for 11 years, where I've been proudly involved in the design and development of many of the great features of the OutSystems Platform.
 
 My hobbies are quite varied, ranging from gardening and playing the piano to home automation.
 
